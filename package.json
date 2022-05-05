@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nicola-bertoli/knative-test/issues"
   },
-  "homepage": "https://github.com/nicola-bertoli/knative-test#readme"
+  "homepage": "https://github.com/nicola-bertoli/knative-test#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
