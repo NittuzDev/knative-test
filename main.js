@@ -12,5 +12,3 @@ http.createServer(function (request, response) {
 
 // Console will print the message
 console.log('Server running at port 8001');
-
-oc create secret generic user-at-github --from-literal=username=Nicola-Bertoli --from-literal=password=accesstoken --type=kubernetes.io/basic-auth
