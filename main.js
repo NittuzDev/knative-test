@@ -18,6 +18,10 @@ app.get('/', function (req, res) {
 
 //GET Date ENDPOINT
 app.get('/date', function (req, res) {
+
+   console.log((new Date())+' - called api /date');
+
+
   var utcDate = new Date()
 
   var day = utcDate.getDate()
