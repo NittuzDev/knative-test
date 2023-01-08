@@ -1,2 +1,2 @@
-Committed on 2023-01-08T12:38:28 
+Committed on 2023-01-08T12:22:35 
 Committer - https://github.com/NittuzDev/knative-test
